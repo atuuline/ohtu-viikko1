@@ -1,3 +1,4 @@
 *.vbs
 *.txt
 target/*
+OhtuVarasto/target/
