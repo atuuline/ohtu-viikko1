@@ -78,6 +78,6 @@ public class Varasto {
 
     // --- Merkkijonoesitys Varasto-oliolle: ----
     public String toString() {
-        return ("saldo = " + saldo + ", vielä tilaa " + paljonkoMahtuu());
+        return ("saldo = " + saldo + ", viela tilaa " + paljonkoMahtuu());
     }
 }
